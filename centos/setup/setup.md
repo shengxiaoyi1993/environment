@@ -12,3 +12,10 @@ swap 4
 ```
 - 安装之后var的空间可能不足，需要将 /var/cache/ 文件夹复制到/home目录下，然后进行链接
 - 然后添加软件源，epel，repoforge等
+
+### 分区方案 total 384G
+- root 20G
+- swap 8G
+- Var 2G
+- /efi 2G
+- /   2G
