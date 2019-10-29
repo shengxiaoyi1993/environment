@@ -27,6 +27,8 @@ makedir -p /mnt/SHARE
 
 ```
 
-
-
-## Novida
+## svn
+## g++
+```
+sudo yum install gcc-c++
+```
