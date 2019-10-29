@@ -19,3 +19,27 @@ swap 4
 - Var 2G
 - /efi 2G
 - /   2G
+
+### shortkey set
+- terminal
+```
+terminal
+/usr/bin/gnome-termal
+```
+
+- workspace switch and move
+```
+alt 1~4 move
+ctrl 1~4 switch
+```
+
+- add current user to sudoers-list
+```
+//edit
+/etc/sudoers
+```
+
+- set source repo
+```
+
+```

@@ -26,3 +26,7 @@ makedir -p /mnt/SHARE
 (base) [sxy@192 Documents]$ sudo mount -t cifs -o username="administrator",password="123"//192.168.2.101/ShareFile /mnt/MYSHARE
 
 ```
+
+
+
+## Novida
