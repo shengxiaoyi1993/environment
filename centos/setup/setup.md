@@ -43,3 +43,7 @@ ctrl 1~4 switch
 ```
 
 ```
+- move hard
+```
+sudo yum -y install ntfs-3g
+```
