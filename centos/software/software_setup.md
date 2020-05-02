@@ -32,3 +32,11 @@ makedir -p /mnt/SHARE
 ```
 sudo yum install gcc-c++
 ```
+
+## media player
+- mplayer 安装
+```
+rpm      -Uvh      nux-dextop-release*
+yum    install    mplayer 
+```
+

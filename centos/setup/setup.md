@@ -47,3 +47,8 @@ ctrl 1~4 switch
 ```
 sudo yum -y install ntfs-3g
 ```
+
+- add the fifth workspace 
+```
+application->system tools->Tweaks
+```

@@ -1,4 +1,9 @@
+
+
 - download
+```
+https://typora.io/linux/Typora-linux-x64.tar.gz
+```
 - export PATH=$PATH:$(pwd)
 -  sudo chown root: chrome-sandbox
 -sudo chmod 4755 chrome-sandbox
