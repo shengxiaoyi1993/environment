@@ -10,7 +10,7 @@ sudo yum install svn
 sudo yum install git
 sudo yum install lftp
 sudo yum install tree
-
+sudo yum install synergy
 cd ~/Documents/
 wget -np -r  ftp://pub:9900@192.168.1.238/software/tools_linux/
 sudo yum install -y redhat-lsb-core
