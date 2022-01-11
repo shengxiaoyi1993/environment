@@ -3,7 +3,7 @@ echo ">>2. Be sure Network works well"
 sudo wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
 sudo yum clean all
 sudo yum makecache
-yum -y install epel-release
+sudo yum -y install epel-release
 sudo yum -y install filezilla
 sudo yum install gcc-c++
 sudo yum install svn
